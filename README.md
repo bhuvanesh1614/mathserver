@@ -89,14 +89,16 @@ def pow(request):
     return render(request,"power.html",{'power':power})
 
 
-# Create your views here.
+```
 
 # SERVER SIDE PROCESSING:
 ![alt text](<Screenshot 2025-10-03 155516.png>)
 ![alt text](<Screenshot 2025-10-03 155738.png>)
 ![alt text](<Screenshot 2025-10-04 124332.png>)
 ![alt text](<Screenshot 2025-10-04 124400.png>)
+
 # HOMEPAGE:
 ![alt text](<Screenshot 2025-10-03 155403.png>)
+
 # RESULT:
 The program for performing server side processing is completed successfully.
